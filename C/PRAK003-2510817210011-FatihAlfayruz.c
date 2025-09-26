@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 int main() {
-    printf("Selamat Pagi, Fatih Alfayruz\nSelamat Siang, Fatih Alfayruz\nSelamat Malam, Fatih Alfayruz");
+    printf("Andi Berkata \"Saya Pasti Bisa\"");
     
     return 0;
+
 }
